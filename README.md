@@ -7,7 +7,7 @@ AI-Powered Google Analytics &amp; Digital Measurement Validation Platform
 ---
 
 <p align="center">
-  <img src="images/SignalScoping.png" width="1000">
+  <img src="images/signalscoping_logo.png" width="1000">
 </p>
 
 ---
